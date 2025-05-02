@@ -1,3 +1,2 @@
-Información patrón Facade.docx
-Documentacion de la aplicacion y de la función del patron de factory 
-[📄 Ver documentación del proyecto](InformaciónpatrónFacade.docx)
+Todo lo que debes saber sobre el patron Facade
+[📄 Ver documentación del proyecto](Información_patrón_Facade.docx.docx)
